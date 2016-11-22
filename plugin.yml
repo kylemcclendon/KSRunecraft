@@ -1,0 +1,5 @@
+name: KSRunecraft
+main: ksrunecraft.KSRunecraft
+version: 1.0
+
+depend: [Multiverse-Core]
